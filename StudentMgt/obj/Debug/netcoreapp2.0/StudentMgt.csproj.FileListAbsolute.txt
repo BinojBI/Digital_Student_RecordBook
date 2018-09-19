@@ -1,0 +1,11 @@
+C:\Users\Binoj\source\repos\StudentMgt\StudentMgt\bin\Debug\netcoreapp2.0\StudentMgt.deps.json
+C:\Users\Binoj\source\repos\StudentMgt\StudentMgt\bin\Debug\netcoreapp2.0\StudentMgt.runtimeconfig.json
+C:\Users\Binoj\source\repos\StudentMgt\StudentMgt\bin\Debug\netcoreapp2.0\StudentMgt.runtimeconfig.dev.json
+C:\Users\Binoj\source\repos\StudentMgt\StudentMgt\bin\Debug\netcoreapp2.0\StudentMgt.dll
+C:\Users\Binoj\source\repos\StudentMgt\StudentMgt\obj\Debug\netcoreapp2.0\StudentMgt.csprojAssemblyReference.cache
+C:\Users\Binoj\source\repos\StudentMgt\StudentMgt\obj\Debug\netcoreapp2.0\StudentMgt.csproj.CoreCompileInputs.cache
+C:\Users\Binoj\source\repos\StudentMgt\StudentMgt\obj\Debug\netcoreapp2.0\StudentMgt.AssemblyInfoInputs.cache
+C:\Users\Binoj\source\repos\StudentMgt\StudentMgt\obj\Debug\netcoreapp2.0\StudentMgt.AssemblyInfo.cs
+C:\Users\Binoj\source\repos\StudentMgt\StudentMgt\bin\Debug\netcoreapp2.0\StudentMgt.pdb
+C:\Users\Binoj\source\repos\StudentMgt\StudentMgt\obj\Debug\netcoreapp2.0\StudentMgt.dll
+C:\Users\Binoj\source\repos\StudentMgt\StudentMgt\obj\Debug\netcoreapp2.0\StudentMgt.pdb
